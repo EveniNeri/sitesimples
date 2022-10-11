@@ -17,13 +17,21 @@
         margin-top: 10%;
     }
     .p-4 {
-        margin-top: 10%;
-        margin-bottom: 0;
+        padding: 5%;
+        margin-top: 0;
     }
     .card{
         margin: 0%;
         padding: 0%;
     }
+    .mb-5{
+
+        padding-top: 0%;
+    }
+    .redesocial{
+        padding-top: 10%;
+    }
+
 
 
     @media (max-width: 768px) {
